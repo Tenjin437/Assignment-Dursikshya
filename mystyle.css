@@ -1,0 +1,163 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+.div1{
+    height: 120vh;
+    width: 100%;
+    background-image: url(images/banner.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    padding: 12em;
+    
+}
+.div-inner{
+    width: 40%;
+    color: white;
+    font-weight: 1200px !important;
+    
+    letter-spacing: 5px;
+    font-family: sans-serif;
+}
+.div-inner h1{
+    color: white;
+    font-size: 4em;
+    font-weight: 50px;
+}
+.mybutton{
+    padding: 0.7em 2em;
+    margin-top: 4em;
+}
+.div2{
+
+    height: 50vh;
+    width: 100%;
+}
+.div2_heading{
+    margin-top: 5em;
+    font-size: 1em;
+    font-weight: bolder;
+
+}
+.div2_icon{
+    margin-top: 3.5em;
+    
+    
+    
+
+}
+.icons{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    border-style: solid;
+    
+
+    
+    
+    
+}
+.myicons{
+    font-size:55px;
+    color: blue;
+    
+    
+}
+.div3{
+    height: 70vh;
+    width: 100%;
+    background-color: aquamarine;
+    background-image: url(images/g6.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+
+    
+}
+.div3_Heading{
+    padding-top: 150px;
+    padding-left: 600px;
+    letter-spacing: 2px;
+    
+    
+
+}
+.div4{
+    height: 70vh;
+    width: 100%;
+    background-color:white;
+    display: flex;
+    
+    
+
+}
+.box1{
+    height: 300px;
+    width: 70%;
+    background-color:white;
+    text-align: center;
+    margin-top: 200px;
+    margin-right: 100px;
+    
+    
+}
+.box2{
+    height: 517px;
+    width:30%;
+    background-image:url(images/g2.jpg);
+    
+}
+.div5{
+    height: 70vh;
+    width: 100%;
+    background-color: aqua;
+    
+}
+.box3image{
+    height:518px;
+
+}
+.box4{
+    margin-top:-300px;
+    margin-left: 600px;
+    color:whitesmoke;
+}
+.div6{
+    height: 150vh;
+    width: 100%;
+    background-color: orange;
+}
+.box5{
+    text-align: center;
+    padding-top: 80px;
+    font-weight: bolder;
+}
+.box5 h5{
+    color: white;
+    font-size: 18px;
+}
+.mycard{
+    height: 250px;
+    width: 500px;
+    
+}
+.container7{
+    margin-top: 100px;
+}
+.card-body{
+    text-align: center;
+    background-color:#ff8000;
+    
+}
+.card-body h5{
+    color: white;
+    font-weight: bold;
+    font-size: 22px;
+    
+}
+.card-body p{
+    color: white;
+}
+
+
+
